@@ -28,14 +28,6 @@ Data.csv contains lastest edition FIFA 2019 players attributes including age, po
 
 There is also a notebook available here to showcsae all my work related to my three questions.
 
-
-
-## Results<a name="results"></a>
-
-The main findings of the code can be found at the [post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020) available
-
-
-
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/karangadiya/fifa19). Otherwise, feel free to use the code here as you would like!
