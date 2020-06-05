@@ -11,7 +11,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-This is an Udacity Nanodegree project. I chose FIFA 19 complete player dataset. 
+This is an Udacity Nanodegree project. I chose FIFA 18 complete player dataset. 
 
 As a football fan,  it would be quite interesting to apply data analysis skills here. 
 
