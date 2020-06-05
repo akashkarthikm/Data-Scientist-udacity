@@ -23,7 +23,7 @@ My key interests would be:
 
 ## File Descriptions <a name="files"></a>
 
-Data.csv contains lastest edition FIFA 2019 players attributes including age, potential, wage, etc. 
+Data.csv contains lastest edition FIFA 2018 players attributes including age, potential, wage, etc. 
 
 There is also a notebook available here to showcsae all my work related to my three questions.
 
